@@ -1,5 +1,5 @@
 # Mixed Messages
 A portfolio project from Codecademy that generates random messages.
 
-##Technologies 
+## Technologies 
 1. JavaScript ES6
